@@ -2,7 +2,7 @@
 int age = 40;
 String qvalification = "Software Developer";
 String mail = "johndoi@example.com";
-String phone = "+370 000 123456";
+String phone = "+370 000 123458888888886";
 
 
 Console.WriteLine("==========VIZITINE===========");
